@@ -1,10 +1,22 @@
-# 📚 Movie-based Book Recommendation System | 🎬 영화 기반 도서 추천 시스템
+# 📚 Movie-based Book Recommendation System
 
 ## 🌟 Project Overview | 프로젝트 개요
-This project is designed to recommend books based on movies that a user enjoys. It utilizes collaborative filtering, content-based filtering, and hybrid models to provide personalized book recommendations.
+This project is designed to recommend books based on movies that a user enjoys. It utilizes a dataset of approximately 14,000 movies and 2,000 books. The system uses collaborative filtering, content-based filtering, and hybrid models to provide personalized book recommendations.
 
-이 프로젝트는 사용자가 좋아하는 영화를 바탕으로 도서를 추천하는 시스템입니다. 협업 필터링, 콘텐츠 기반 필터링, 그리고 하이브리드 모델을 사용하여 개인화된 도서 추천을 제공합니다.
+이 프로젝트는 사용자가 좋아하는 영화를 바탕으로 도서를 추천하는 시스템입니다. 약 14,000개의 영화 데이터와 2,000권의 도서 데이터를 기반으로 협업 필터링, 콘텐츠 기반 필터링, 그리고 하이브리드 모델을 사용하여 개인화된 도서 추천을 제공합니다.
 
+
+## 🧑‍🤝‍🧑 **Team member | 팀원**
+- **비타민 13기 : 서영우, 이형석, 한재선**
+- **비타민 14기 : 박예슬, 이채연**
+
+## 📅 **Progress period | 진행 기간**
+- **2024.07.13 ~ 2024.08.30**
+
+## 📊 Data collection | 데이터 수집
+- **Book rating data | 도서 평점 데이터 : Aladin**
+- **Book data | 도서 데이터 : 도서관 정보나루 API**
+- **Movie data | 영화 데이터 : Naver** 
 ## 🚀 Features | 기능 소개
 - **Movie Data Analysis | 영화 데이터 분석**: Extract key information and features from movie data.
 - **Book Recommendation System | 도서 추천 시스템**: Recommend books based on the similarity between movies and books.
@@ -44,9 +56,6 @@ Follow these steps to run the project locally. | 프로젝트를 로컬에서 �
 ## 📖 Usage | 사용 방법
 - Explore data analysis methods in the `EDA.ipynb` notebook. | `EDA.ipynb` 노트북에서 데이터 분석 방법을 확인할 수 있습니다.
 - Follow the model training and validation process in the `model_training.ipynb` notebook. | `model_training.ipynb` 노트북에서 모델 학습 및 검증 과정을 따라갈 수 있습니다.
-
-## 🤝 Contribution | 기여 방법
-Want to contribute? Please check out the [CONTRIBUTING.md](./docs/CONTRIBUTING.md) file for guidelines. | 프로젝트에 기여하고 싶다면, [CONTRIBUTING.md](./docs/CONTRIBUTING.md) 파일을 참고해주세요.
 
 ## 📜 License | 라이선스
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details. | 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](./LICENSE) 파일을 참고하세요.

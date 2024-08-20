@@ -39,8 +39,8 @@ Follow these steps to run the project locally. | 프로젝트를 로컬에서 �
 
 1. **Clone the repository | 저장소 클론**:
     ```bash
-    git clone https://github.com/username/movie-book-recommendation.git
-    cd movie-book-recommendation
+    git clone https://github.com/maeseok/Movie-based-Book-Recommendation-System
+    cd Movie-based-Book-Recommendation-System
     ```
 
 2. **Install required packages | 필수 패키지 설치**:

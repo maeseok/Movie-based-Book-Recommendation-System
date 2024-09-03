@@ -48,14 +48,9 @@ Follow these steps to run the project locally. | 프로젝트를 로컬에서 �
     pip install -r requirements.txt
     ```
 
-3. **Run the project | 프로젝트 실행**:
-    ```bash
-    python main.py
-    ```
-
 ## 📖 Usage | 사용 방법
-- Explore data analysis methods in the `EDA.ipynb` notebook. | `EDA.ipynb` 노트북에서 데이터 분석 방법을 확인할 수 있습니다.
-- Follow the model training and validation process in the `model_training.ipynb` notebook. | `model_training.ipynb` 노트북에서 모델 학습 및 검증 과정을 따라갈 수 있습니다.
+- Explore data analysis methods in the `tests.ipynb` notebook. | `tests.ipynb` 노트북에서 데이터 분석 방법을 확인할 수 있습니다.
+- Follow the model training and validation process in the `tests.ipynb` notebook. | `tests.ipynb` 노트북에서 모델 학습 및 검증 과정을 따라갈 수 있습니다.
 
 ## 📜 License | 라이선스
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details. | 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](./LICENSE) 파일을 참고하세요.

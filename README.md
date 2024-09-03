@@ -22,8 +22,6 @@ This project is designed to recommend books based on movies that a user enjoys. 
 - **Book Recommendation System | 도서 추천 시스템**: Recommend books based on the similarity between movies and books.
 - **Model Performance Evaluation | 모델 성능 평가**: Evaluate the performance of various recommendation models.
 
-## 📂 Project Structure | 프로젝트 구조
-![Project Structure | 프로젝트 구조도](./static/architecture.png)
 
 ### 📁 Key Directories and Files | 주요 디렉토리 및 파일
 - `data/`: Movie and book data files. | 영화 및 도서 데이터 파일.

@@ -49,7 +49,7 @@ Follow these steps to run the project locally. | 프로젝트를 로컬에서 �
     ```
 
 ## 📖 Usage | 사용 방법
-- Explore data analysis methods in the `tests.ipynb` notebook. | `tests.ipynb` 노트북에서 데이터 분석 방법을 확인할 수 있습니다.
+- Explore data analysis methods in the `Embedding_Visualization_etc.ipynb.ipynb` notebook. | `Embedding_Visualization_etc.ipynb.ipynb` 노트북에서 데이터 분석 방법을 확인할 수 있습니다.
 - Follow the model training and validation process in the `tests.ipynb` notebook. | `tests.ipynb` 노트북에서 모델 학습 및 검증 과정을 따라갈 수 있습니다.
 
 ## 📜 License | 라이선스

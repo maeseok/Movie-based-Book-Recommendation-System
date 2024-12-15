@@ -5,6 +5,7 @@ This project is designed to recommend books based on movies that a user enjoys. 
 
 이 프로젝트는 사용자가 좋아하는 영화를 바탕으로 도서를 추천하는 시스템입니다. 약 14,000개의 영화 데이터와 2,000권의 도서 데이터를 기반으로 협업 필터링, 콘텐츠 기반 필터링, 그리고 하이브리드 모델을 사용하여 개인화된 도서 추천을 제공합니다.
 
+![image](https://github.com/user-attachments/assets/8a339d31-aad9-4446-be9f-7226b9557ef6)
 
 ## 🧑‍🤝‍🧑 **Team member | 팀원**
 - **비타민 13기 : 서영우, 이형석, 한재선**
